@@ -34,6 +34,7 @@ body::before {
 }
 
 .login-body {
+    width: 350px;
     padding: 60px;
     z-index: 90;
     position: relative;
